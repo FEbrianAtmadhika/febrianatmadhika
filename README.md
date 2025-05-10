@@ -59,6 +59,21 @@ Practical experience in:
 
 ---
 
+## 🏗️ Featured Project: [AndalasResidence.com](https://andalasresidence.com)
+
+**AndalasResidence.com** is a dormitory management system for Universitas Andalas, developed to streamline the management of room allocations, resident data, and administrative payments.
+
+🎯 **Role:**  
+I am fully responsible for the **backend development**, including:
+
+- Database design and optimization
+- REST API development
+- Integration of **Midtrans payment gateway**
+
+🛠️ **Tech Stack:** Laravel (PHP), PostgreSQL, Midtrans API
+
+---
+
 ## 🤝 Let's Collaborate
 
 Open to:
