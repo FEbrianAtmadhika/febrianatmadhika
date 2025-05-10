@@ -46,7 +46,6 @@ Open to **working with developers, startups, and open-source contributors**—I 
 Practical experience in:
 
 - 🔧 Shared hosting setup (cPanel, FTP, MySQL)
-- ☁️ Cloud deployment (DigitalOcean, VPS, basic AWS EC2)
 - 🐧 Linux server configuration (Ubuntu)
 - 🌐 Web server management (Apache, Nginx)
 - 🔐 SSL setup, domain management, and basic automation
